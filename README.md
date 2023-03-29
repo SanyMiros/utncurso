@@ -3,7 +3,7 @@
 Curso de Bioinformática introductorio a Python
 
 ## CONTENIDOS
-Act
+Actividades
 - Unix
 - Control de la versión
 - Python 
